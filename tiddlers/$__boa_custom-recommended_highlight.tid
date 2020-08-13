@@ -1,0 +1,14 @@
+caption: Підсвітка коду
+created: 20191130155751092
+modified: 20191130160543220
+order: 070
+tags: 
+title: $:/boa/custom-recommended/highlight
+
+!! ''Плагін //highlight.js//''
+
+Плагін ''highlight.js'' призначений для відображення коду (тексту) програм всередині тідлера з підсвіткою ключових і службових термінів.
+
+; Розміщення:
+* локальне -- [[$:/plugins/tiddlywiki/highlight]]
+* в інтернеті -- https://tiddlywiki.com/plugins/tiddlywiki/highlight/#%24%3A%2Fplugins%2Ftiddlywiki%2Fhighlight

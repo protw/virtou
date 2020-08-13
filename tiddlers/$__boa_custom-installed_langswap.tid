@@ -1,0 +1,10 @@
+caption: Перемикач мов
+created: 20200320224926249
+modified: 20200321083533624
+order: 019
+tags: 
+title: $:/boa/custom-installed/langswap
+
+!! ''Плагін //~LangSwap//''
+
+{{$:/plugins/boa/langswap/readme}}

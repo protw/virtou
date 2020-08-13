@@ -1,0 +1,14 @@
+caption: Чекліст
+created: 20190822104139029
+modified: 20200606202121978
+order: 078
+tags: 
+title: $:/boa/custom-recommended/checklist
+
+!! ''Віджет //Checklist//''
+
+Віджет створює більш прості у використанні можливості управління чекбоксами у порівняння з віджетом <<mono checkbox>>, зокрема, для створення гранульованих списків фільтрації тідлерів - наприклад, див. [[тут|https://protw.github.io/#%24%3A%2Fboa%2Ffiltering%2Fby-tags]].
+
+; Розміщення:
+* локальне -- $:/core/modules/widgets/checklist.js
+* в інтернеті -- http://checklist.tiddlyspot.com/

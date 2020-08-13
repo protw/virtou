@@ -1,0 +1,14 @@
+caption: Пошук з підсвіткою
+created: 20191204201551246
+modified: 20191204202715866
+order: 072
+tags: 
+title: $:/boa/custom-recommended/contextplugin
+
+!! ''Плагін //~ContextPlugin//''
+
+Плагін ''~ContextPlugin'' шукає слово всередині тідлерів і показує результат із виділеним пошуковим словом у деякому його контексті.
+
+; Розміщення:
+* локальне -- [[$:/plugins/danielo515/ContextPlugin]]
+* в інтернеті -- http://contextplugin.tiddlyspot.com/
